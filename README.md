@@ -1,3 +1,3 @@
-# Brandon Jonathan Brown - Software Engineer
+# <i>Brandon Jonathan Brown - Software Engineer</i>
 
-# Hope my repositories are of help!
+Hope my repositories are of help!
