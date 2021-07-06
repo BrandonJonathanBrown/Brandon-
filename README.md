@@ -1,3 +1,3 @@
-# <i>Brandon Jonathan Brown - Software Engineer</i>
+# <i><b>Brandon Jonathan Brown - Software Engineer</b></i>
 
-Hope my repositories are helpful!
+<i>Hope my repositories are helpful</i>
