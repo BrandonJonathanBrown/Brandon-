@@ -1,0 +1,12 @@
+.label
+{
+-fx-text-fill:white;
+}
+
+*
+{
+-fx-background-color:black;
+-fx-font-family:"Times New Roman";	
+-fx-font-size: 25px;
+-fx-text-fill:white;
+}
